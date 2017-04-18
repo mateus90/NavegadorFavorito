@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Favorite Browser</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="versao">Version 2.0</string>
+
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="manter_conectado">Keep Connected</string>
+    <string name="logar">Login</string>
+    <string name="browser">Browser</string>
+    <string name="neubauer_company" translatable="false">Neubauer Company</string>
+    <string name="email" translatable="false">mateusneubauer@gmail.com</string>
+    <string name="nome">Name</string>
+    <string name="nome_do_usuario">Username</string>
+    <string name="senha">Password</string>
+    <string name="cadastrar">Register</string>
+    <string name="nome_do_navegador">Browser Name</string>
+    <string name="listar">List</string>
+    <string name="sair">Exit</string>
+    <string name="editar">Edit</string>
+    <string name="deletar">Delete</string>
+    <string name="sobre">About</string>
+    <string name="nome_desenvolvedor">Mateus Contino Neubauer</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Navegador Favorito</string>
+    <string name="logar">Logar</string>
+    <string name="manter_conectado">Manter Conectado</string>
+    <string name="nome">Nome</string>
+    <string name="nome_do_usuario">Nome do Usuário</string>
+    <string name="browser">Navegador</string>
+    <string name="versao">Versão 2.0</string>
+    <string name="senha">Senha</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="nome_do_navegador">Nome do Navegador</string>
+    <string name="sair">Sair</string>
+    <string name="deletar">Deletar</string>
+    <string name="editar">Editar</string>
+    <string name="listar">Listar</string>
+    <string name="sobre">Sobre</string>
+</resources>

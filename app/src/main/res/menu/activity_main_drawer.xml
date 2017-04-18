@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cadastrar"
+            android:title="@string/cadastrar" />
+        <item
+            android:id="@+id/nav_listar"
+            android:title="@string/listar" />
+        <item
+            android:id="@+id/nav_sobre"
+            android:title="@string/sobre" />
+        <item
+            android:id="@+id/nav_sair"
+            android:title="@string/sair" />
+    </group>
+
+</menu>
